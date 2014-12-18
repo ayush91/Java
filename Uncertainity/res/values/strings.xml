@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Uncertainty</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">This is just a stupid app. Whenever you are in any situation which requires a yes or no answer but are unsure then use this app.</string>
+	<string name="button">Answer!</string>
+	
+</resources>
